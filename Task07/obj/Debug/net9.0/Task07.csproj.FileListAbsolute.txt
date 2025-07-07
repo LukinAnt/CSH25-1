@@ -1,0 +1,15 @@
+/Users/lukinlukina/Desktop/25Csh/Task07/bin/Debug/net9.0/Task07
+/Users/lukinlukina/Desktop/25Csh/Task07/bin/Debug/net9.0/Task07.deps.json
+/Users/lukinlukina/Desktop/25Csh/Task07/bin/Debug/net9.0/Task07.runtimeconfig.json
+/Users/lukinlukina/Desktop/25Csh/Task07/bin/Debug/net9.0/Task07.dll
+/Users/lukinlukina/Desktop/25Csh/Task07/bin/Debug/net9.0/Task07.pdb
+/Users/lukinlukina/Desktop/25Csh/Task07/obj/Debug/net9.0/Task07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukinlukina/Desktop/25Csh/Task07/obj/Debug/net9.0/Task07.AssemblyInfoInputs.cache
+/Users/lukinlukina/Desktop/25Csh/Task07/obj/Debug/net9.0/Task07.AssemblyInfo.cs
+/Users/lukinlukina/Desktop/25Csh/Task07/obj/Debug/net9.0/Task07.csproj.CoreCompileInputs.cache
+/Users/lukinlukina/Desktop/25Csh/Task07/obj/Debug/net9.0/Task07.sourcelink.json
+/Users/lukinlukina/Desktop/25Csh/Task07/obj/Debug/net9.0/Task07.dll
+/Users/lukinlukina/Desktop/25Csh/Task07/obj/Debug/net9.0/refint/Task07.dll
+/Users/lukinlukina/Desktop/25Csh/Task07/obj/Debug/net9.0/Task07.pdb
+/Users/lukinlukina/Desktop/25Csh/Task07/obj/Debug/net9.0/Task07.genruntimeconfig.cache
+/Users/lukinlukina/Desktop/25Csh/Task07/obj/Debug/net9.0/ref/Task07.dll
